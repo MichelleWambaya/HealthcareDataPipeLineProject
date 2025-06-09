@@ -3,7 +3,7 @@
 * Overview
 > This project demonstrates an end-to-end data engineering pipeline for synthetic healthcare data. It covers data generation, ingestion, cleaning, transformation, storage, and basic analytics. The goal is to simulate a healthcare data workflow that includes patient records, diagnoses, and insurance claims, showcasing core data engineering skills with Python, Faker, and SQLite/PostgreSQL.
 
-###Key features:
+### Key features:
 
 1. Synthetic healthcare data generation using Python Faker
 2. Data cleaning and transformation with Pandas
@@ -29,10 +29,11 @@ This architecture allows modular and scalable data processing, similar to real-w
 *How to Run This Project*
 1. Install required Python packages:
 
-'''bash
+```bash
 
 pip install faker pandas psycopg2-binary
-'''
+
+```
 2. Generate synthetic healthcare data:
 3. Run your data generation script (e.g., generate_data.py) to create CSV files.
 4. Clean and transform data:
@@ -53,7 +54,7 @@ pip install faker pandas psycopg2-binary
 >Experience with Python data libraries and database interactions.
 >Introduction to workflow automation tools like Airflow.
 
-*Contact
+* Contact *🤙🏾
 For questions or collaboration, please reach out:
 
 LinkedIn: [LinkedIn](https://www.linkedin.com/in/michelle-wambaya/)
